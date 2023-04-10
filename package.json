@@ -1,5 +1,5 @@
 {
-    "name":"suraj",
+    "name":"yourinfo-info",
     "version":"1.0.0",
     "bin":{
         "myinfo":"index.js"
